@@ -1,0 +1,18 @@
+
+body
+a {color: cadetblue;}
+body
+{
+    
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+  font-size: 16px;
+  line-height: 2;
+   color: #3333ff;
+background-color: rgb(65, 35, 15);
+}
+h2{color: rgb(27, 149, 241);}
+
+input:focus{background-color: aqua;}
+textarea:focus{background-color: aqua;}
+
+/*:-moz-drag-over{<a href="mailto:toreyj95@ilcoud.com">toreyj95@icloud.com</a>}
